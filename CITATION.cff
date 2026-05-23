@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this workflow or software, please cite it using the metadata below."
+title: "Morphological Featurization of Grayscale Images"
+authors:
+  - family-names: "Winiski"
+    given-names: "Jake"
+doi: 10.5281/zenodo.20358724
+url: "https://github.com/JakeWiniski/Morphological-Featurization"
+date-released: 2026-05-23
+version: "0.1.0"
+license: "Apache-2.0"
+abstract: >-
+  Initial proof-of-concept release of Morphological Featurization of
+  Grayscale Images, a practical workflow for converting grayscale image
+  datasets into structured morphological, intensity, and texture-based
+  feature tables suitable for downstream analysis. The workflow combines
+  global image-level descriptors, localized blob-level measurements,
+  and optional masking of bright regions to generate interpretable
+  features for statistical learning and image-based screening workflows.
+keywords:
+  - image analysis
+  - morphology
+  - feature engineering
+  - grayscale imaging
+  - texture analysis
+  - blob detection
+  - materials science
+  - biomaterials
+  - computer vision
+  - statistical learning
+repository-code: "https://github.com/JakeWiniski/Morphological-Featurization"
+type: software
