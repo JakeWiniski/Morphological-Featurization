@@ -1,4 +1,5 @@
 # Morphological Featurization of Grayscale Images
+[![DOI](https://zenodo.org/badge/997029225.svg)](https://doi.org/10.5281/zenodo.20358723)
 
 ## Summary
 
